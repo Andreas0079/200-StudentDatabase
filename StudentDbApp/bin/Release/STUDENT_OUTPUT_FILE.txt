@@ -1,0 +1,20 @@
+Undergrad
+Junior
+BSIT
+
+GradStudent
+11111.11
+Dr. Donald Chinn
+
+Undergrad
+Sophomore
+Psychology
+
+GradStudent
+22222.22
+Dr. Ankur Teredesai
+
+Undergrad
+Freshman
+Edging
+

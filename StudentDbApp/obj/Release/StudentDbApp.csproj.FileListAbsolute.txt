@@ -1,0 +1,7 @@
+C:\Users\Souri\Documents\TINFO 200\StudentDbApp\bin\Release\StudentDbApp.exe.config
+C:\Users\Souri\Documents\TINFO 200\StudentDbApp\bin\Release\StudentDbApp.exe
+C:\Users\Souri\Documents\TINFO 200\StudentDbApp\bin\Release\StudentDbApp.pdb
+C:\Users\Souri\Documents\TINFO 200\StudentDbApp\obj\Release\StudentDbApp.csproj.AssemblyReference.cache
+C:\Users\Souri\Documents\TINFO 200\StudentDbApp\obj\Release\StudentDbApp.csproj.CoreCompileInputs.cache
+C:\Users\Souri\Documents\TINFO 200\StudentDbApp\obj\Release\StudentDbApp.exe
+C:\Users\Souri\Documents\TINFO 200\StudentDbApp\obj\Release\StudentDbApp.pdb
